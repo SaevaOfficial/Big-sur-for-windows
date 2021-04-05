@@ -2,8 +2,17 @@
 [ tr-TR ]
 Big Sur Normalde Deviantart Üzerinde Paylaşılmıştır Fakat Türkçe Dil Desteği Yoktur Ben Biraz Çalıştım Üzerinde Türkçe Dil Desteğini Getirdim.
 
+Deviantart Üzerindeki Link : https://www.deviantart.com/fediafedia/art/Big-Sur-BETA-3-for-Rainmeter-846882462
+
+Proje Yapımcısı : https://www.deviantart.com/fediafedia
+
 [ en-US ]
 Big Sur is Normally Shared on Deviantart, but there is no Turkish Language Support. I worked a little, I brought Turkish Language Support on it.
+
+
+Link on Deviantart: https://www.deviantart.com/fediafedia/art/Big-Sur-BETA-3-for-Rainmeter-846882462
+
+Project Producer: https://www.deviantart.com/fediafedia
 
 # Big-sur-for-windows | Resim - Image
 
